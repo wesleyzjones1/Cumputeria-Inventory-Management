@@ -1,0 +1,32 @@
+Report generated on: 2024-05-14 14:11:14
+
+Inhouse Parts
+Name            Store  ID    Price   Inv  Date Added  
+RTX 3050        1      1721  249.99  12   03/22/2024  
+RTX 3060        2      1722  399.99  31   03/28/2024  
+RTX 3070        3      1723  499.99  42   04/01/2024  
+RTX 3080        4      1724  699.99  19   03/25/2024  
+GTX 2060        7      1732  459.99  35   05/01/2024  
+GTX 2060 Super  7      1733  470.99  19   05/01/2024  
+CPU             9      1741  200.0   15   05/02/2024  
+CPU cooler      1      1746  59.99   9    05/14/2024  
+
+Outsourced Parts
+Name             Store  ID    Price   Inv  Date Added  Company Name  
+RTX 3090         3      1725  899.99  7    03/25/2024  NVDIA         
+Radeon RX6800    9      1734  500.49  12   05/01/2024  AMD           
+Radeon RX6800XT  9      1735  600.0   6    05/01/2024  AMD           
+
+Products
+Name           Store  ID    Price    Inv  Date Added  Associated Parts                                      
+Home PC        11     1726  259.99   23   04/25/2024  RTX 3050,                                             
+Office PC      2      1727  599.99   22   04/26/2024  RTX 3060,                                             
+Gaming PC 1    13     1728  799.99   19   04/27/2024  RTX 3070,                                             
+Gaming PC 2    4      1729  999.99   13   04/28/2024  RTX 3080,                                             
+Gaming PC 3    5      1730  1399.99  0    04/29/2024  RTX 3090,                                             
+Super PC       3      1731  12000.0  9    05/01/2024  RTX 3080, RTX 3090,                                   
+AMD Ultra PC   9      1736  1499.99  7    05/01/2024  Radeon RX6800, Radeon RX6800XT,                       
+AMD Super PC   9      1737  1299.99  12   05/01/2024  Radeon RX6800XT,                                      
+AMD Potato PC  9      1738  789.99   21   05/01/2024  Radeon RX6800,                                        
+God PC         9      1739  5999.99  3    05/01/2024  Radeon RX6800, Radeon RX6800XT, RTX 3080, RTX 3090,   
+
