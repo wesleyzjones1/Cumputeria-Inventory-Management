@@ -4,7 +4,9 @@
 ![](images/Home_screen.png)
 
 The Computeria inventory management system is a software solution designed to streamline and optimize inventory management processes for Computeria, 
-a well-established computer store. The system focuses on managing the inventory of hardware components, peripherals, and complete PC systems sold by Computeria.  Here are some of the features:
+a well-established computer store. The system focuses on managing the inventory of hardware components, peripherals, and complete PC systems sold by Computeria.
+
+## Features
 
 - Ability to Create, Edit and Delete Products and Parts.
 - Add Multiple Parts to a Product
@@ -18,6 +20,7 @@ a well-established computer store. The system focuses on managing the inventory 
 
 #### Class diagram
 ![](images/Class_diagram.png)
+
 #### Design diagram
 ![](images/Design_diagram.png)
 
@@ -33,14 +36,13 @@ open a web browser and go to [localhost:5000/mainscreen](http://localhost:5000/m
 If you want to reset the database,open the BootStrapData.js file located in src/main/java/com/example/demo/bootstrap/BootStrapData.java.  Go to 
 line 43-46 and un comment the code, then re-run the application and the database will be set to its original state.
 
-### Generated report
+## Generated report
 To see the report of parts and products that were created when the application first ran, open the Report.txt file located in the root directory. 
 
 ![](images/Generated_report.png)
 
-## D. Software Testing
 
-### Test Plan for Unit Testing
+## Test Plan for Unit Testing
 
 **Objective:** To test the functionality of the `Part` and `Product` classes to make sure that they perform properly.to do 
 this, run the tests by right-clicking the java file located at src/test/java and click the Run 'Tests in java button'
