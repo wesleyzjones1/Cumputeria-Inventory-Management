@@ -1,14 +1,10 @@
 ## Computeria Capstone Project
 
 ### Home Page
-![](images/Home_Screen.png)
-
-
+![](images/Home_screen.png)
 
 The Computeria inventory management system is a software solution designed to streamline and optimize inventory management processes for Computeria, 
 a well-established computer store. The system focuses on managing the inventory of hardware components, peripherals, and complete PC systems sold by Computeria.  Here are some of the features:
-
-
 
 - Ability to Create, Edit and Delete Products and Parts.
 - Add Multiple Parts to a Product
